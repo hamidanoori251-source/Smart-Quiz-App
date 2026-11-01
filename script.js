@@ -1392,4 +1392,3 @@ function escapeJS(value) {
 // ======================================
 
 renderHome();
-alert("JavaScript Connected Successfully!");
